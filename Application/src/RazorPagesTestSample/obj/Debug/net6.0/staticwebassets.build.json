@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "rdOsuVS2kK1W2rrGWAqRTbpPdePzC+V8qImAjanH9+E=",
+  "Source": "RazorPagesTestSample",
+  "BasePath": "_content/RazorPagesTestSample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorPagesTestSample\\wwwroot",
+      "Source": "RazorPagesTestSample",
+      "ContentRoot": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\wwwroot\\",
+      "BasePath": "_content/RazorPagesTestSample",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\wwwroot\\favicon.ico",
+      "SourceId": "RazorPagesTestSample",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\wwwroot\\",
+      "BasePath": "_content/RazorPagesTestSample",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

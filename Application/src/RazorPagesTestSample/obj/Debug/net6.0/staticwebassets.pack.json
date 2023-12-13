@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RazorPagesTestSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RazorPagesTestSample.props",
+      "PackagePath": "build\\RazorPagesTestSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RazorPagesTestSample.props",
+      "PackagePath": "buildMultiTargeting\\RazorPagesTestSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RazorPagesTestSample.props",
+      "PackagePath": "buildTransitive\\RazorPagesTestSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
