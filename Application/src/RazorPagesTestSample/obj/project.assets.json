@@ -17,11 +17,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oluca\\source\\repos\\TechExcel-Implementing-DevOps-practices-to-accelerate-developer-productivity-code\\Application\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+      "projectUniqueName": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
       "projectName": "RazorPagesTestSample",
-      "projectPath": "C:\\Users\\oluca\\source\\repos\\TechExcel-Implementing-DevOps-practices-to-accelerate-developer-productivity-code\\Application\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+      "projectPath": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
       "packagesPath": "C:\\Users\\oluca\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oluca\\source\\repos\\TechExcel-Implementing-DevOps-practices-to-accelerate-developer-productivity-code\\Application\\src\\RazorPagesTestSample\\obj\\",
+      "outputPath": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

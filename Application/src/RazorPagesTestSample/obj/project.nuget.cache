@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CCQ4OIdryKJdk/I/UBGJvjOkv8RVTceHKKIbx6atcN1MaVxO06AvWa9RjPu1vNej4F2+GfZSNpRd/tD8jJOsag==",
+  "dgSpecHash": "GxIpG+rgfEPkOHAAynNESmACsA+Icw643EsqDpAGxITGmRDNV/ySRsh0MWoSMLRQivItEKPDhCfw5r/33vVwVQ==",
   "success": false,
-  "projectFilePath": "C:\\Users\\oluca\\source\\repos\\TechExcel-Implementing-DevOps-practices-to-accelerate-developer-productivity-code\\Application\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
+  "projectFilePath": "C:\\Users\\oluca\\source\\repos\\TechExcelDevOPs\\Application\\src\\RazorPagesTestSample\\RazorPagesTestSample.csproj",
   "expectedPackageFiles": [],
   "logs": [
     {
